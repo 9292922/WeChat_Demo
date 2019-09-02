@@ -1,0 +1,14 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/po"
+        android:orderInCategory="100"
+        android:title="投诉"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/set"
+        android:orderInCategory="100"
+        android:title="设置朋友圈权限"
+        app:showAsAction="never" />
+</menu>

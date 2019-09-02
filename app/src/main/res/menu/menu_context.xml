@@ -1,0 +1,19 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/copy"
+        android:orderInCategory="100"
+        android:title="复制"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/get"
+        android:orderInCategory="100"
+        android:title="收藏"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/translate"
+        android:orderInCategory="100"
+        android:title="翻译"
+        app:showAsAction="never" />
+</menu>

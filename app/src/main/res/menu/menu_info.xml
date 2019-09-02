@@ -1,0 +1,19 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/noTakeAttentionAgain"
+        android:orderInCategory="100"
+        android:title="取消关注"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/et"
+        android:orderInCategory="100"
+        android:title="设置朋友圈权限"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/putInBlackHouse"
+        android:orderInCategory="100"
+        android:title="拉黑好友"
+        app:showAsAction="never" />
+</menu>
